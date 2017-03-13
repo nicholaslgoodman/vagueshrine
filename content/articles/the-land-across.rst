@@ -1,13 +1,13 @@
 The Land Across
 ###############
 :date: 2014-12-23 04:37
-:author: goodmanl
-:category: Gene Wolfe
+:author: nick
+:category: Articles
 :tags: literature, novel, summary, wolfe
 :slug: the-land-across
 :status: published
 
-A man child takes an out-of-the-way vacation in Gene Wolfe's *Land
+>A man child takes an out-of-the-way vacation in Gene Wolfe's *Land
 Across*. Grafton considers himself a travel writer, but he doesn't write
 much. After finishing a book about Viennese night life, he heads
 eastward into a totalitarian state which he calls "the land across the

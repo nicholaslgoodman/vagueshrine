@@ -1,13 +1,12 @@
 A Review of Samuel Delany's Dhalgren
 ####################################
-:date: 2015-03-05 15:32
-:author: goodmanl
-:category: science fiction
-:tags: Dhalgren
+:date: 2011-11-20 15:32
+:author: nick 
+:category: Articles
+:tags: Dhalgren, delany, science fiction
 :slug: a-review-of-samuel-delanys-dhalgren
 :status: published
 
-[Originally published 20 November 2011]
 
 to your reading list. Samuel Delany’s Dhalgren has achieved a reputation
 for being daunting and difficult. A longtime Gene Wolfe aficionado, I
