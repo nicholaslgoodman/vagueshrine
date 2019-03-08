@@ -1,7 +1,7 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/dicetoss.png" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="~/assets/images/dicetoss.png" width="273" height="212"/>
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metaData.siteName }}
@@ -12,8 +12,8 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/nicholaslee">Follow on Twitter</a>
+			<a href="//github.com/nicholaslgoodman/">GitHub</a>
 		</p>
 
 	</div>
@@ -42,8 +42,8 @@ export default {
 
 	&__image {
 		border-radius: 100%;
-		width: 90px;
-		height: 90px;
+		width: 273px;
+		height: 212px;
 		margin-bottom: 1em;
 	}
 
