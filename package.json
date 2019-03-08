@@ -16,5 +16,19 @@
   "devDependencies": {
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0"
-  }
+  },
+  "description": "> A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.",
+  "version": "1.0.0",
+  "main": "gridsome.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholaslgoodman/vagueshrine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaslgoodman/vagueshrine/issues"
+  },
+  "homepage": "https://github.com/nicholaslgoodman/vagueshrine#readme"
 }
