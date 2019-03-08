@@ -6,18 +6,7 @@
     "develop": "gridsome develop",
     "explore": "gridsome explore"
   },
-  "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
-    "@gridsome/remark-prismjs": "^0.0.4",
-    "@gridsome/source-filesystem": "^0.3.0",
-    "@gridsome/transformer-remark": "^0.2.0",
-    "gridsome": "^0.5.0"
-  },
-  "devDependencies": {
-    "node-sass": "^4.11.0",
-    "sass-loader": "^7.1.0"
-  },
-  "description": "> A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.",
+  "description": "> A writing and game design blog.",
   "version": "1.0.0",
   "main": "gridsome.config.js",
   "repository": {
@@ -30,5 +19,17 @@
   "bugs": {
     "url": "https://github.com/nicholaslgoodman/vagueshrine/issues"
   },
-  "homepage": "https://github.com/nicholaslgoodman/vagueshrine#readme"
+  "homepage": "https://github.com/nicholaslgoodman/vagueshrine#readme",
+  "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/remark-prismjs": "^0.0.4",
+    "@gridsome/source-filesystem": "^0.3.0",
+    "@gridsome/transformer-remark": "^0.2.1",
+    "gridsome": "^0.5.0",
+    "jest-worker": "^24.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  }
 }
