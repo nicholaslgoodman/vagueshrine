@@ -21,5 +21,4 @@ The Dice Make the Game
 Despite the original d6 system, D&D is a d20 system now. The two are linked in everyone's minds. Call of Cthulhu is two d10s. Shadowrun is d6s. World of Darkness is d10s. Genesys is ???. Unless you create your own dice (please don't), you will have to use dice that are already associated with another game. The only question is how much you deviate, how much you try to innovate.
 
 KISS
-Keep it simple, right? Don't try to reinvent the wheel. 
-
+Keep it simple, right? Don't try to reinvent the wheel.
