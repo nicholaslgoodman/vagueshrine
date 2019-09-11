@@ -3,8 +3,10 @@
   "private": true,
   "scripts": {
     "build": "gridsome build",
+    "explore": "gridsome explore",
+    "predeploy": "npm run build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "deploy": "gh-pages -d dist"
   },
   "description": "> A writing and game design blog.",
   "version": "1.0.0",
