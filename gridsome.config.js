@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Vague Shrine',
   siteDescription: 'A writing and game design blog.',
-  siteUrl: 'https://nicholasleegoodman.com',
+  siteUrl: 'https://www.nicholasleegoodman.com',
   plugins: [
     {
       // Create posts from markdown files
